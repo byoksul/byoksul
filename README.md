@@ -16,7 +16,7 @@ Contact with me via these platforms!
   
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img src="https://img1.pngindir.com/20180408/xew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dbc1606.4623884115232440777704.jpg"></img>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">s
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></img>
 <img alt="MVC" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></img>
