@@ -8,7 +8,7 @@
 # Hi 👋
 I'm Burak! -Software Developer
 
-- 🌱 I’m currently learning Angular,İonic,React-Native C# , ASP.NET MVC , FLUTTER , DART , HTML , CSS , MSSQL
+- 🌱 I’m currently learning React-Native,Angular,İonic, C# , ASP.NET MVC , FLUTTER , DART , HTML , CSS , MSSQL
 
 
 Contact with me via these platforms! 
