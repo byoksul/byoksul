@@ -1,6 +1,6 @@
 # Hi, I'm Burak Yoksul 👋
 
-### Full Stack Software Engineer | Team Lead
+### Full Stack Software Engineer 
 
 I'm a Full Stack Software Engineer with **5+ years of experience** building enterprise web, mobile, and backend applications.
 
