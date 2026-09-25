@@ -48,30 +48,7 @@ Currently, I serve as **Team Lead for the Task Tracking System (GTS)**, coordina
 
 ---
 
-## 💼 Selected Experience
 
-**Task Tracking System (GTS)** — Team Lead  
-Enterprise task and workflow management platform covering assignments, SLA tracking, templates, reporting, integrations and real-time notifications.
-
-**KGF Executive Dashboard**  
-Mobile executive reporting platform providing secure access to dashboards, grouped charts, detailed metrics and personalized favorites.
-
-**KGF Lawyer Portal**  
-Web, mobile and backend ecosystem for legal case management, expenses, documents, users and notifications.
-
-**KGF IKS Web & Mobile**  
-Enterprise web and mobile platform covering company analysis, guarantee and credit processes, bank offers, projects and support operations.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=byoksul&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byoksul&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
